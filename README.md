@@ -1,5 +1,5 @@
 # Frontend Mentor - Results summary component
-
+C:\Users\hp\Desktop\frontend mentor projects\5.Results summary component\design\desktop-design.jpg
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
