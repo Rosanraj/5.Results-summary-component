@@ -1,5 +1,6 @@
 # Frontend Mentor - Results summary component
-https://github.com/Rosanraj/5.Results-summary-component/blob/main/5.Results%20summary%20component/design/desktop-design.jpg?raw=true
+![desktop-design](https://github.com/Rosanraj/5.Results-summary-component/assets/131958853/70da90fb-785f-459e-aebf-97bd50ce8895)
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
